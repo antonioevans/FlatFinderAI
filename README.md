@@ -12,14 +12,6 @@ FlatFinderAI revolutionizes the way you search for flats in Portugal. By seamles
 - **Real-Time Listings:** Offers up-to-date information on available flats, including price, location, amenities, and more.
 
 ## How It Works
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=QLA1mT8J1nc">
-    <img src="http://img.youtube.com/vi/QLA1mT8J1nc/0.jpg" alt="Watch the video">
-  </a>
-</p>
-
-
 1. **User Query Input:** Start by entering your housing preferences, such as location, size, or specific amenities.
 2. **Query Processing:** The system refines your input into a search query optimized for Algolia.
 3. **Search Execution:** The refined query is sent to Algolia, fetching listings that match your criteria.
