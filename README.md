@@ -1,4 +1,6 @@
 # FlatFinderAI
+![FlatFinderAI Banner](https://raw.githubusercontent.com/antonioevans/FlatFinderAI/main/flatfinderai.webp)
+
 
 ## Introduction
 FlatFinderAI revolutionizes the way you search for flats in Portugal. By seamlessly integrating with Algolia, this Python application transforms vague user queries into precise search terms, delivering fast and relevant flat listings. Whether you're looking for a T2 in Almada or a cozy studio in Lisbon with breathtaking views, FlatFinderAI is your go-to solution.
