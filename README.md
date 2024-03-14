@@ -54,6 +54,6 @@ To contribute:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Antonio Evans - [@YourTwitter](https://twitter.com/antonioevans) - antonioevans@gmail.com
+Antonio Evans - [@antonioevans](https://twitter.com/antonioevans) - antonioevans@gmail.com
 
 Project Link: [https://github.com/antonioevans/FlatFinderAI](https://github.com/antonioevans/FlatFinderAI)
